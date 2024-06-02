@@ -1,0 +1,7 @@
+# Ignore environment files
+.env
+
+# Other files to ignore
+node_modules/
+dist/
+*.log
