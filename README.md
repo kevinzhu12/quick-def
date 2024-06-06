@@ -1,4 +1,4 @@
-# QuickDef: Chrome Extension to quickly explain unfamiliar text using OpenAI API
+# QuickDef: chrome extension to quickly explain unfamiliar text using OpenAI API
 I want to optimize the user experience for online reading, especially in the context of news articles and research papers. This project allows users to efficiently read and understand online sources by generating real-time OpenAI API explanations for unfamiliar text that the user highlights. 
 
 # Demo:
